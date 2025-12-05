@@ -1,0 +1,3 @@
+{
+  "/auth/account-activation/[token]/page": "app/auth/account-activation/[token]/page.js"
+}
