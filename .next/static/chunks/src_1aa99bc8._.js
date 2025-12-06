@@ -134,7 +134,7 @@ __turbopack_context__.s([
     "default",
     ()=>__TURBOPACK__default__export__
 ]);
-const API_URL = 'http://127.0.0.1:8000/api';
+const API_URL = 'https://xenial-roxanna-alpha-chat-432856b6.koyeb.app/api';
 const __TURBOPACK__default__export__ = API_URL;
 if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
     __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
