@@ -1,7 +1,0 @@
-{
-  "/admin/orders/page": "app/admin/orders/page.js",
-  "/admin/reviews/page": "app/admin/reviews/page.js",
-  "/admin/tables/page": "app/admin/tables/page.js",
-  "/admin/waiter/page": "app/admin/waiter/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
-}
